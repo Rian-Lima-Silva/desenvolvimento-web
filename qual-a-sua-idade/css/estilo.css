@@ -1,0 +1,41 @@
+body {
+    background-color:rgb(70,142,236);
+    font: normal 15pt Arial;
+}
+header {
+    color: white;
+    text-align: center;
+}
+
+section {
+    background-color: white;
+    border-radius:10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(37, 74, 122, 0.844);
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+
+.btn {
+    font:normal 1.1em normal sans-serif;
+    border-style: none;
+    border-radius: 5px;
+    height: 25px;
+    box-shadow: 0.5px 0.9px 2.1px rgb(120, 115, 115);
+    cursor: pointer;
+}
+div
+input.btn{
+    height: 25px;
+    font-size: 1em;
+}
+
+.btn[type="button"]:hover {
+    scale: 1.1;
+}
