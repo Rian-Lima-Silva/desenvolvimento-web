@@ -1,4 +1,4 @@
-# 📑 Desenvolvimento Web
+# 🌐 Desenvolvimento Web
 
 ## Sobre esse repositório
 
@@ -6,9 +6,28 @@
 <div>
     <ul>
         <li>
-            <a href="https://github.com/Rian-Lima-Silva/desenvolvimento-web/tree/main/hora-do-dia" target="_self" rel="next">Hora do Dia
+            <a href="https://github.com/Rian-Lima-Silva/desenvolvimento-web/tree/main/hora-do-dia" target="_self" rel="next">
+                <strong>Hora do Dia</strong>
             </a>
             <p>Nesse projeto de acordo com a hora do dia do usuário, a foto será alterada.</p>
+        </li>
+        <li>
+            <a href="https://github.com/Rian-Lima-Silva/desenvolvimento-web/tree/main/qual-a-sua-idade" target="_self" rel="next">
+                <strong>Verificador de Idade</strong>
+            </a>
+            <p>Esse projeto usa a idade entregue junto de selecionar seu sexo, uma foto será mostrada de acordo com o resultado.</p>
+        </li>
+        <li>
+            <a href="https://github.com/Rian-Lima-Silva/desenvolvimento-web/tree/main/super-contador" target="_self" rel="next">
+                <strong>Super Contador</strong>
+            </a>
+            <p>Esse projeto usa loop <code>for</code> para realizar uma contagem com os valores entregues.</p>
+        </li>
+        <li>
+            <a href="https://github.com/Rian-Lima-Silva/desenvolvimento-web/tree/main/tabuada" target="_self" rel="next">
+                <strong>Tabuada</strong>
+            </a>
+            <p>Cria uma tabuada do valor passado.</p>
         </li>
     </ul>
 </div>
