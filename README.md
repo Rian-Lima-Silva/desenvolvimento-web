@@ -15,7 +15,7 @@
             <a href="https://github.com/Rian-Lima-Silva/desenvolvimento-web/tree/main/qual-a-sua-idade" target="_self" rel="next">
                 <strong>Verificador de Idade</strong>
             </a>
-            <p>Esse projeto usa a idade entregue junto de selecionar seu sexo, uma foto será mostrada de acordo com o resultado.</p>
+            <p>Esse projeto usa seu ano de nascimento junto de seu sexo, uma foto será mostrada de acordo com o resultado.</p>
         </li>
         <li>
             <a href="https://github.com/Rian-Lima-Silva/desenvolvimento-web/tree/main/super-contador" target="_self" rel="next">
